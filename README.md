@@ -24,6 +24,11 @@ Building this app with intention of learning flutter better.
  
 ## Example Meme:-
  <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot1.jpg" width="350" height="400"/>
+ 
+
+# Download the app here
+
+[meme_maker.apk](https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/meme_maker.apk)
 
 # Dependencies used:-
 
