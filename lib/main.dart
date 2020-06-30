@@ -380,7 +380,7 @@ class _HomeState extends State<Home> {
                             duration: Duration(seconds: 1),
                           );
                           _scaffoldKey.currentState.showSnackBar(snackBar);
-                            await Share.file('mememaker$randomNumber.png', 'mememaker$randomNumber.jpg', byteData.buffer.asUint8List(), 'image/png', text: 'Wants to make meme like this? download the app from https://github.com/Tushargupta9800');
+                            await Share.file('mememaker$randomNumber.png', 'mememaker$randomNumber.jpg', byteData.buffer.asUint8List(), 'image/png', text: 'Wants to make meme like this? Download the repository from https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app');
                         },
                           child: Row(
                             children: <Widget>[
