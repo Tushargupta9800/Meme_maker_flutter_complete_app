@@ -32,6 +32,13 @@ Building this app with intention of learning flutter better.
 3) url_launcher:
 4) esys_flutter_share:
 
+# Android Permissions taken:-
+
+1) <uses-permission android:name="android.permission.INTERNET" />
+2) <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+3) <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+4) android.permission.WRITE_EXTERNAL_STORAGE
+
 # Google Font Styles used:-
 
 1) Roboto-Black
