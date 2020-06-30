@@ -1,7 +1,50 @@
-# mememaker
+# MeMe Maker
 
-A new Flutter application.
+This is my first Android Application in the category of Productivity. Here you can make your own memes and can share them with your friends on your social networking sites.
+Building this app with intention of learning flutter better.
 
+# Screenshots
+
+## Main Screen
+
+<img align="left" src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot2.jpg" width="230" height="400"/>
+<img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot3.jpg" width="230" height="400"/>
+
+## Font Colors you can choose:-
+ <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot4.jpg" width="230" height="400"/>
+ 
+
+## Font styles you can choose:-
+ <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot5.jpg" width="230" height="400"/>
+ 
+
+## Add pictures from your Camera and Gallery:-
+<img align="left" src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot7.jpg" width="450" height="400"/>
+ <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot6.jpg" width="230" height="400"/>
+ 
+## Example Meme:-
+ <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot1.jpg" width="350" height="400"/>
+
+# Dependencies used:-
+
+image_picker:
+gallery_saver:
+url_launcher:
+esys_flutter_share:
+
+# Google Font Styles used:-
+
+1) Roboto-Black
+2) Yellowtail-Regular
+3) Notable-Regular
+4) PermanentMarker-Regular
+5) Lobster-Regular
+6) Pangolin-Regular
+7) Piedra-Regular
+8) IndieFlower-Regular
+9) ShadowsIntoLight-Regular
+10) fonts/Caveat-Regular
+    
 ## Getting Started
 
 This project is a starting point for a Flutter application.
