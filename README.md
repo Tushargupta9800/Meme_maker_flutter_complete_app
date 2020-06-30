@@ -27,10 +27,10 @@ Building this app with intention of learning flutter better.
 
 # Dependencies used:-
 
-image_picker:
-gallery_saver:
-url_launcher:
-esys_flutter_share:
+1) image_picker:
+2) gallery_saver:
+3) url_launcher:
+4) esys_flutter_share:
 
 # Google Font Styles used:-
 
