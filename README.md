@@ -34,9 +34,9 @@ Building this app with intention of learning flutter better.
 
 # Android Permissions taken:-
 
-1) <uses-permission android:name="android.permission.INTERNET" />
-2) <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-3) <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+1) <uses-permission android:name="android.permission.INTERNET" /
+2) <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /
+3) <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /
 4) android.permission.WRITE_EXTERNAL_STORAGE
 
 # Google Font Styles used:-
