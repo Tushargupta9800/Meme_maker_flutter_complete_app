@@ -10,15 +10,15 @@ Building this app with intention of learning flutter better.
 <img align="left" src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot2.jpg" width="230" height="400"/>
 <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot3.jpg" width="230" height="400"/>
 
-## Font Colors you can choose:-
+## You can choose Font colors:-
  <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot4.jpg" width="230" height="400"/>
  
 
-## Font styles you can choose:-
+## You can choose Font styles:-
  <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot5.jpg" width="230" height="400"/>
  
 
-## Add pictures from your Camera and Gallery:-
+## You can Add templates from your Camera and Gallery:-
 <img align="left" src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot7.jpg" width="450" height="400"/>
  <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot6.jpg" width="230" height="400"/>
  
@@ -55,7 +55,7 @@ Building this app with intention of learning flutter better.
 7) Piedra-Regular
 8) IndieFlower-Regular
 9) ShadowsIntoLight-Regular
-10) fonts/Caveat-Regular
+10) Caveat-Regular
     
 ## Getting Started
 
