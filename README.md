@@ -10,6 +10,8 @@ Building this app with intention of learning flutter better.
 <img align="left" src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot2.jpg" width="230" height="400"/>
 <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot3.jpg" width="230" height="400"/>
 
+# Features:-
+
 ## You can choose Font colors:-
  <img src="https://github.com/Tushargupta9800/Meme_maker_flutter_complete_app/blob/master/Screenshot/Screenshot4.jpg" width="230" height="400"/>
  
