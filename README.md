@@ -1,6 +1,7 @@
 # MeMe Maker
 
-This is my first Android Application in the category of Productivity. Here you can make your own memes and can share them with your friends on your social networking sites.
+This is my first Android Application in the category of Productivity.<br/> 
+Here you can make your own memes and can share them with your friends on your social networking sites.<br/>
 Building this app with intention of learning flutter better.
 
 # Screenshots
